@@ -21,11 +21,6 @@ function App() {
             return (
               <div
                 key={i}
-                // style={{
-                //   border: "2px solid grey",
-                //   borderRadius: "25px",
-                //   backgroundColor: "grey",
-                // }}
                 className="col-sm-6 col-md-4 col-lg-3 text-center p-2"
               >
                 <img
